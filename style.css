@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  background-color: aquamarine;
+  display:block;
+}
+
+main{
+  
+}
+
+p{
+  border: black;
+  border-style: solid;
+  border-radius: 3px;
+  border-width: 2px;
+}
